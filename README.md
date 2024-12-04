@@ -48,8 +48,11 @@ The model's performance is evaluated using a confusion matrix and classification
 The following evaluation metrics are used:
 
 Precision: The accuracy of positive predictions.
+
 Recall: The ability of the model to identify all relevant instances of a drug.
+
 F1-score: A weighted average of precision and recall.
+
 Accuracy: The overall correctness of the model.
 
 ### Deployment
