@@ -10,8 +10,7 @@ Information in the README.md about common problems and how to fix them.
 Using GitHub helps keep track of changes and allows others to collaborate and use our project easily.
 
 ## Getting Started
-
-Instructions on how to get a copy of the project up and running on your local machine.
+We will be using a csv file "drugsetdata.csv" which has the data of Age,	Sex,	BP,	Cholesterol,	Na_to_K, Drug
 
 ### Prerequisites
 
