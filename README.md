@@ -18,6 +18,8 @@ The script preprocesses the data, splits it into training and test sets, scales 
 
 We will be using a csv file "drugsetdata.csv" which has the data of Age,	Sex,	BP,	Cholesterol,	Na_to_K, Drug
 
+For this script, we used Jupyter.
+
 ### Installing
 
 Clone the repository:
@@ -32,6 +34,11 @@ Ensure you have Python installed on your machine. This script also requires the 
     - numpy
     - matplotlib
     - scikit-learn
+
+### Running the Tests
+
+.py
+
   
 ### Breakdown of Tests
 
