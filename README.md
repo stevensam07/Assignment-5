@@ -1,4 +1,4 @@
-# # Drug Classification Using Neural Networks - Assignment - 5 (Data-1202)
+# Drug Classification Using Neural Networks - Assignment - 5 (Data-1202)
 
 ## Description
 
@@ -15,6 +15,7 @@ Using GitHub helps keep track of changes and allows others to collaborate and us
 The script preprocesses the data, splits it into training and test sets, scales the features, trains a neural network model, and evaluates its performance using confusion matrix and classification report.
 
 ## Getting Started
+
 We will be using a csv file "drugsetdata.csv" which has the data of Age,	Sex,	BP,	Cholesterol,	Na_to_K, Drug
 
 ### Installing
@@ -32,6 +33,20 @@ Ensure you have Python installed on your machine. This script also requires the 
     - matplotlib
     - scikit-learn
   
+### Breakdown of Tests
+
+The model's performance is evaluated using a confusion matrix and classification report. It calculates the precision, recall, F1-score, and accuracy for the five drug categories (drugA, drugB, drugC, drugX, drugY).
+
+The following evaluation metrics are used:
+
+Precision: The accuracy of positive predictions.
+Recall: The ability of the model to identify all relevant instances of a drug.
+F1-score: A weighted average of precision and recall.
+Accuracy: The overall correctness of the model.
+
+###Deployment
+You can deploy this model in an application where drug prescriptions need to be predicted based on patient features. The model can be integrated into a web app or medical diagnostic system.
+
 
     
 
