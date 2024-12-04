@@ -2,7 +2,7 @@
 
 ## Description
 
-In the DATA 1200 course, we worked on a project using an Artificial Neural Network (ANN). The project involves training the model with data, testing how well it works, and improving it. We will write the code in Python using a neural network model from the `sklearn` library.
+In the DATA 1200 course, we worked on a project using an Artificial Neural Network (ANN). The project involves training the model with data, testing how well it works, and improving it. We will write the code in Python using a neural network model from the Phyton library.
 
 To share our work and help others follow along, we will set up a GitHub repository. 
 It will include:
