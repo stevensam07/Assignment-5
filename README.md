@@ -69,12 +69,10 @@ This project is licensed under the MIT License.
 
 ### Acknowledgments
 
-Used references:
+Inspiration for the project was taken from various machine learning tutorials and online video and used references:
 
 `https://gist.github.com/PurpleBooth/109311bb0361f32d87a2`
+
 `https://www.linkedin.com/learning/git-essential-training-19417064`
-
-Inspiration for the project was taken from various machine learning tutorials and online videos.
-
     
 
