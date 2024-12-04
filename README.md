@@ -30,16 +30,17 @@ Clone the repository:
 
 Ensure you have Python installed on your machine. This script also requires the following Python libraries:
 
-    - pandas
-    - numpy
-    - matplotlib
-    - scikit-learn
+    - import pandas as pd
+    - import numpy as np
+    - import matplotlib.pyplot as plt
+      %matplotlib inline
 
 ### Running the Tests
 
-.py
+Run the HTML attached to run the Tests on the Model
 
-  
+    - Assignment 4 (2).html
+
 ### Breakdown of Tests
 
 The model's performance is evaluated using a confusion matrix and classification report. It calculates the precision, recall, F1-score, and accuracy for the five drug categories (drugA, drugB, drugC, drugX, drugY).
@@ -51,9 +52,26 @@ Recall: The ability of the model to identify all relevant instances of a drug.
 F1-score: A weighted average of precision and recall.
 Accuracy: The overall correctness of the model.
 
-###Deployment
+### Deployment
+
 You can deploy this model in an application where drug prescriptions need to be predicted based on patient features. The model can be integrated into a web app or medical diagnostic system.
 
+### Author
+
+Steven Sam / 100940630 - Durham College, Oshawa, Ontario Canada
+
+### License
+
+This project is licensed under the MIT License.
+
+### Acknowledgments
+
+Used references:
+
+`https://gist.github.com/PurpleBooth/109311bb0361f32d87a2`
+`https://www.linkedin.com/learning/git-essential-training-19417064`
+
+Inspiration for the project was taken from various machine learning tutorials and online videos.
 
     
 
