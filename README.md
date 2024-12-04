@@ -15,7 +15,10 @@ Instructions on how to get a copy of the project up and running on your local ma
 
 ### Prerequisites
 
-List software that must be installed (e.g., Python, libraries).
+Import required libraries that is needed in Phython:
 
 ```bash
-pip install -r requirements.txt
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
